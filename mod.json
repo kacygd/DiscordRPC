@@ -1,13 +1,13 @@
 {
-	"geode": "3.0.0-beta.5",
-	"version": "v2.12.2",
+	"geode": "4.0.1",
+	"version": "v3.0.1",
 	"id": "cps.discord_rich_presence",
 	"name": "CPS Discord Rich Presence",
 	"developer": "TechStudent10",
 	"description": " Discord Rich Presence mod for CPS GDPS",
 	"gd": {
-		"win": "2.206",
-		"mac": "2.206"
+		"win": "2.2074",
+		"mac": "2.2074"
 	},
 	"settings": {
 		"funny-mode": {
